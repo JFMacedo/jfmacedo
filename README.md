@@ -1,21 +1,12 @@
-<h1 align='center'>
-  Olá, eu sou o Jean
-</h1>
+<img src="https://i.postimg.cc/RVPR0MhB/github-banner.png" />
 
-<p align='center'>
-  Full stack web developer de Andirá - PR
-</p>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/jean-fernandes-de-macedo-b843a3194/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+[![Github Badge](https://img.shields.io/badge/-JFMacedo-%23181717?logo=github)](https://github.com/JFMacedo)
+[![Linkedin Badge](https://img.shields.io/badge/-Jean%20Fernandes%20de%20Macedo-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/jfmacedo91/) 
+[![Gmail Badge](https://img.shields.io/badge/-jfmacedo91%40gmail.com-FFFFFF?logo=gmail)](mailto:jfmacedo91@gmail.com)
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JFMacedo&show_icons=true&count_private=true&theme=material-palenight" height="160"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFMacedo&layout=compact&theme=material-palenight" height="160"></a>
-</p>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JFMacedo&show_icons=true&count_private=true&theme=material-palenight" height="160"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFMacedo&layout=compact&theme=material-palenight" height="160"></a>
 
 
 <!--
