@@ -1,6 +1,6 @@
 <img src="./assets/banner.png" />
 
-### Olá, me chamo Jean Fernandes de Macedo e moro em Andirá no Paraná, estou estudando programação desde 2020 e está sendo incrível.
+### Olá, meu nome é Jean Fernandes de Macedo e moro em Andirá no Paraná, estou estudando programação desde 2020 e está sendo incrível.
 <br />
 • Fiz parte de uma das turmas do bootcamp Launchbase da Rocketseat e finalizei o mesmo no final de 2020. <br />
 • Comecei a cursar Analise e Desenvolvimento de Sistema no inicio de 2021 e atualmente estou no segundo semestre. <br />
