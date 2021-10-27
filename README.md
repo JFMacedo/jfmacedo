@@ -1,15 +1,34 @@
 <img src="./assets/banner.png" />
 
-### Olá, meu nome é Jean Fernandes de Macedo e moro em Andirá no Paraná, estou estudando programação desde 2020 e está sendo incrível.
+## Olá, eu sou o Jean
+Estou em uma transição de carreira e adoro desafios, estou sempre procurando aprender novas coisas, pois o próximo nível nunca é o último.
 <br />
-• Fiz parte de uma das turmas do bootcamp Launchbase da Rocketseat e finalizei o mesmo no final de 2020. <br />
-• Comecei a cursar Analise e Desenvolvimento de Sistema no inicio de 2021 e atualmente estou no segundo semestre. <br />
-• Também estou cursando o Ignite na trilha de React da Rocketseat, onde estou aprendendo sobre o React com Typescript e também o Next.js e todo o poder que ele fornece para o desenvolvimento web.
+📍 Andirá-PR
+<br />
+👨‍🎓 Cursando o segundo semestre de Análise e Desenvolvimento de Sistemas
+<br />
+🚀 Fiz parte de uma das turmas do bootcamp Launchbase da Rocketseat e finalizei o mesmo no final de 2020.
+<br />
+🚀 Também fiz parte do Ignite na trilha de React da Rocketseat, onde estou aprendendo sobre o React com Typescript e também o Next.js e todo o poder que ele fornece para o desenvolvimento web.
+<br />
+<br />
 
-Alguns contatos contatos:<br /><br />
-[![Github Badge](https://img.shields.io/badge/-jfmacedo91-%23181717?logo=github)](https://github.com/jfmacedo91)
-[![Linkedin Badge](https://img.shields.io/badge/-Jean%20Fernandes%20de%20Macedo-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/jfmacedo91/) 
-[![Gmail Badge](https://img.shields.io/badge/-jfmacedo91%40gmail.com-DDDDDD?logo=gmail)](mailto:jfmacedo91@gmail.com)
+## Stack
+<img src="assets/linux.png" height="32">
+<img src="assets/vscode.png" height="32">
+<img src="assets/html5.png" height="32">
+<img src="assets/css3.png" height="32">
+<img src="assets/js.png" height="32">
+<img src="assets/ts.png" height="32">
+<img src="assets/react.png" height="32">
+<img src="assets/nextjs.png" height="32">
+<br />
+<br />
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jfmacedo91&show_icons=true&count_private=true&theme=material-palenight" height="160"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmacedo91&layout=compact&theme=material-palenight" height="160"></a>
+## Contatos
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-jfmacedo91-%232867B2)](https://www.linkedin.com/in/jfmacedo91/) 
+[![E-mail Badge](https://img.shields.io/badge/E--mail-jfmacedo91-%23DB4437)](mailto:jfmacedo91@gmail.com)
+[![Rocketseat Badge](https://img.shields.io/badge/rocketseat-jfmacedo91-%238257e6)](https://app.rocketseat.com.br/me/jfmacedo91)
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jfmacedo91&hide_border=true&show_icons=true&count_private=true&theme=gotham" height="160"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmacedo91&hide_border=true&layout=compact&theme=gotham" height="160"></a>
