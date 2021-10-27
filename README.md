@@ -5,7 +5,7 @@
 - 📪 Andirá-PR
 - 🎓 Cursando o segundo semestre de Análise e Desenvolvimento de Sistemas
 - 🚀 Fiz parte de uma das turmas do bootcamp Launchbase da Rocketseat e finalizei o mesmo no final de 2020.
-- 🚀 Também fiz parte do Ignite na trilha de React da Rocketseat, onde estou aprendendo sobre o React com Typescript e também o Next.js e todo o poder que ele fornece para o desenvolvimento web.
+- 🚀 Também fiz parte do Ignite na trilha de React da Rocketseat, onde aprendendi sobre o React com Typescript, Next.js e todo o poder que ele fornece para o desenvolvimento web e testes automatizados com Jest.
 <br />
 <br />
 
