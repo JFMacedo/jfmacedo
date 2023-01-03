@@ -3,10 +3,11 @@
 ## Olá, eu sou o Jean
 - 📰 Estou em uma transição de carreira e adoro desafios, estou sempre procurando aprender novas coisas, pois o próximo nível nunca é o último.
 - 📪 Andirá-PR
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🚀 Fiz parte de uma das turmas do bootcamp Launchbase da Rocketseat e finalizei o mesmo no final de 2020.
-- 🚀 Também fiz parte do Ignite na trilha de React da Rocketseat, onde aprendendi sobre o React com Typescript, Next.js e todo o poder que ele fornece para o desenvolvimento web e testes automatizados com Jest.
-- 🌎 Participando do DB1 Star da DB1 GLOBAL SOFTWARE
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🌎 Participei do DB1 Star da DB1 GLOBAL SOFTWARE
+- 🚀 Fiz parte de uma das turmas do bootcamp Launchbase da Rocketseat.
+- 🚀 Também fiz parte do Ignite na trilha de React da Rocketseat.
+- 🐺 Atualmente estou estudando UI Design e Font End no Origamid.
 <br />
 <br />
 
