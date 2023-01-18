@@ -27,9 +27,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-jfmacedo91-%232867B2)](https://www.linkedin.com/in/jfmacedo91/) 
 [![E-mail Badge](https://img.shields.io/badge/E--mail-jfmacedo91@gmail.com-%23DB4437)](mailto:jfmacedo91@gmail.com)
 [![Rocketseat Badge](https://img.shields.io/badge/rocketseat-jfmacedo91-%238257e6)](https://app.rocketseat.com.br/me/jfmacedo91)
-<br />
-<br />
-
-## Estatística
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jfmacedo91&hide_border=true&show_icons=true&count_private=true&theme=gotham" height="160"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmacedo91&hide_border=true&layout=compact&theme=gotham" height="160"></a>
