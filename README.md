@@ -7,7 +7,8 @@
 - 🌎 Participei do DB1 Star da DB1 GLOBAL SOFTWARE
 - 🚀 Fiz parte de uma das turmas do bootcamp Launchbase da Rocketseat.
 - 🚀 Também fiz parte do Ignite na trilha de React da Rocketseat.
-- 🐺 Atualmente estou estudando UI Design e Font End no Origamid.
+- 🐺 Estudando UI Design e Font End na Origamid.
+- 🐘 Estudando PHP na B7Web
 <br />
 <br />
 
