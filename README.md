@@ -21,6 +21,7 @@
 <span><img src="assets/ts.png" height="32"></span>
 <span><img src="assets/react.png" height="32"></span>
 <span><img src="assets/nextjs.png" height="32"></span>
+<span><img src="assets/php.png" height="32"></span>
 <br />
 <br />
 
